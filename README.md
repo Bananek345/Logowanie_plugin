@@ -7,4 +7,4 @@ Rejestracja: /zarejestruj <Hasło> <Powtórz_hasło>
 Logowanie: /zaloguj <Hasło>
 Zmiana Hasła: /zmienhaslo <Stare_hasło> <Nowe_hasło>
 
-Wersja pluginu na serwer to 1.21.9
+Wersja pluginu na serwer to 1.21
